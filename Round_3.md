@@ -1,12 +1,12 @@
 # 66DaysOfData Round 3
 
-**Day 1 of #66DaysOfData:**
+**Day 1 of #66DaysOfData (July 1, 2021):**
 
 - The company that I work at uses Power BI a lot for creating reports and I wanted to improve my overall understanding of Power BI Desktop and Service, so I decided to study for the DA-100 Microsoft exam by taking a Udemy course I found online to help prepare myself for the exam. I started off the course by learning some basic data preparation, including using the query editor and connecting to data with JSON files.
 
 - Started watching the first video from StatQuest's 66DaysofData playlist. This video gives an intuitive explanation of what histograms are. Nothing too advanced here, but just wanted to start off this challenge lightly.
 
-**Day 2 of #66DaysOfData:**
+**Day 2 of #66DaysOfData (July 2, 2021):**
 
 - I thought about starting a new project that I could work on, but I realized I had a ton of older projects that I started before but never finished.. so I'm revisiting one of my older projects. In particular, I'm going back to working on this project where I would create a Power BI dashboard that visualizes the number of steps I'm walking each day. This data is collected from my phone's Health app over the span of 3 years.
 
