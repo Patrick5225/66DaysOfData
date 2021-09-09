@@ -21,3 +21,7 @@
 - DA-100 Exam Prep: Watched videos on how to connect Power BI to SQL Server Analysis Services (SSAS) and to SharePoint Online
 
 - Watched a StatQuest video on statistical distributions
+
+**Day 4 of #66DaysOfData (July 4, 2021):**
+
+- More Power BI learning, including different storage modes (import, DirectQuery, and Dual), Data Source Settings, and using Parameters to change data source values dynamically in Power Query
