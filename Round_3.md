@@ -6,6 +6,8 @@
 
 - Started watching the first video from StatQuest's 66DaysofData playlist. This video gives an intuitive explanation of what histograms are. Nothing too advanced here, but just wanted to start off this challenge lightly.
 
+---
+
 **Day 2 of #66DaysOfData (July 2, 2021):**
 
 - I thought about starting a new project that I could work on, but I realized I had a ton of older projects that I started before but never finished.. so I'm revisiting one of my older projects. In particular, I'm going back to working on this project where I would create a Power BI dashboard that visualizes the number of steps I'm walking each day. This data is collected from my phone's Health app over the span of 3 years.
@@ -13,6 +15,8 @@
   - From what I worked on so far on my project, I learned how to create a calendar table on Power BI using the CalendarAuto() DAX function. With this function, the calendar table is automatically created with a column of dates based on the minimum and maximum date values in the data model. I also learned that with the combination of the AVERAGEX() and VALUES() DAX functions, I can calculate the average amount of steps I took per day. Pretty cool functions that I may consider using at my job one day :)
 
 - Did some more DA-100 Exam prep by learning about how to connect to Power BI Data Source files (PBIDS) and to the Microsoft Dataverse
+
+---
 
 **Day 3 of #66DaysOfData (July 3, 2021):**
 
@@ -22,9 +26,13 @@
 
 - Watched a StatQuest video on statistical distributions
 
+---
+
 **Day 4 of #66DaysOfData (July 4, 2021):**
 
 - More Power BI learning, including different storage modes (import, DirectQuery, and Dual), Data Source Settings, and using Parameters to change data source values dynamically in Power Query
+
+---
 
 **Day 5 of #66DaysOfData (July 5, 2021):**
 
@@ -32,11 +40,15 @@
 
 - Solved SQL problems from Stratascratch
 
-**Day 6 of #66DaysOfData (July 6, 2021):
+---
+
+**Day 6 of #66DaysOfData (July 6, 2021):**
 
 - Reviewed and learned about Power BI's basic table transformations within Power Query, including how to add index columns, conditional columns, and columns from example
 
 - Watched a StatQuest video on Hypothesis Testing and the Null Hypothesis
+
+---
 
 **Day 7 of #66DaysOfData (July 7, 2021):**
 
@@ -48,6 +60,8 @@
 
 - Continued working on pedometer project, adding new measures and columns using DAX
 
+---
+
 **Day 8 of #66DaysOfData (July 8, 2021):**
 
 - Reviewed Data Modeling concepts within Power BI, such as the difference between Data Tables and Lookup Tables, creating table relationships, filter flows, snowflake vs. star schemas, automatic date tables, and optimizing data models
@@ -56,11 +70,15 @@
 
 - Reviewed basics of Python including data types, variables, lists, dictionaries, tuples, and sets
 
+---
+
 **Day 9 of #66DaysOfData (July 9, 2021):**
 
 - Was messing around more with M code within Power BI and figured out how to replace multiple values that are in the same column with just one applied step. M code was intimidating to me at first, but with more practice that I did today, it's not as bad anymore
 
 - Read this blog post on (https://alluringbi.com/2020/08/06/consolidating-report-elements-for-improved-performance/) about some useful tips to decrease the number of visuals in a report, which helps increase performance of reports by reducing page loading times. Some tips that were shown included using a single matrix instead of a bunch of individual cards, and using a background instead of placing text or shapes on the report.
+
+---
 
 **Day 10 of #66DaysOfData (July 10, 2021):**
 
