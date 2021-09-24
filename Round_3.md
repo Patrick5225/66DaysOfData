@@ -83,3 +83,9 @@
 **Day 10 of #66DaysOfData (July 10, 2021):**
 
 - Reviewed DAX functions within Power BI including CALCULATE, USERLATIONSHIP, ALL, FILTER, TOPN, and Time Intelligence Functions
+
+---
+
+**Day 11 of #66DaysOfData (July 11, 2021):**
+
+- Watched video from Guy in a Cube on getting started on understanding Power BI performance (https://www.youtube.com/watch?v=14KCckNbmvs&ab_channel=GuyinaCube). This video gives an introduction to the performance analyzer and some brief recommendations for optimizing performance 
