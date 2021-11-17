@@ -98,3 +98,142 @@
 
 - Did some practice and messing around with some formatting options with objects and charts in Power BI, such as conditional formatting 
 
+---
+
+**Day 13 of #66DaysOfData (July 13, 2021):**
+
+- Reviewed Power BI visuals and their features including drill-through filters, bookmarks, tooltips, and R/Python visuals
+
+- Watched a video on SQL by Alex The Analyst on using Partition By with SQL (https://www.youtube.com/watch?v=D6XNlTfglW4&list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL&index=7&ab_channel=AlexTheAnalyst) 
+
+---
+
+**Day 14 of #66DaysOfData (July 14, 2021):**
+
+- Spent most of the day analyzing and messing around with California COVID data on Power BI 
+
+---
+
+**Day 15 of #66DaysOfData (July 15, 2021):**
+
+- Learned about Power BI's accessibility features including themes and tab/layer orders in the selection pane
+
+- Watched a SQL video from Alex The Analyst on the Having clause with SQL (https://www.youtube.com/watch?v=tYBOMw7Ob8E&list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL&index=4&ab_channel=AlexTheAnalyst) 
+
+---
+
+**Day 16 of #66DaysOfData (July 16, 2021):
+
+- Learned about the dashboard interface and how to create a dashboard in Power BI service. Also learned about managing and viewing roles in Power BI desktop
+
+- Read w3schools tutorial on Python's replace() method (https://www.w3schools.com/python/ref_string_replace.asp) 
+
+---
+
+**Day 17 of #66DaysOfData (July 17, 2021):**
+
+- Reviewed Python's comparison operators, if and else statements, for loops, while loops, range function, and list comprehension 
+
+---
+
+**Day 18 of #66DaysOfData (July 18, 2021):**
+
+- Reviewed basics of Python's functions, lambda expressions, and methods such as lower(), upper(), and split() 
+
+---
+
+**Day 19 of #66DaysOfData (July 19, 2021):**
+
+- Learned about chart analytics options within Power BI, such as constant lines for scatter charts, trend lines and forecasting for line charts. Also dived into Q&A visuals, key influencer visuals, and the decomposition tree visual 
+
+---
+
+**Day 20 of #66DaysOfData (July 20, 2021):**
+
+- Learned about static row-level security (RLS) and dynamic RLS in Power BI
+
+- Spent about an hour working on a Power BI report for my pedometer project 
+
+---
+
+**Day 21 of #66DaysOfData (July 21, 2021):**
+
+- Learned about applying RLS, subscriptions, sharing options, user roles & permissions, publishing apps, and deployment pipelines, all within Power BI Service
+
+- Watched a video on designing navigation panels in Power BI (https://www.youtube.com/watch?v=34pBbd92BQI&ab_channel=biDezine)
+
+- Continued working on my Pedometer project 
+
+---
+
+**Day 22 of #66DaysOfData (July 22, 2021):**
+
+- Slow day today. Spent my free time learning about data lineage within Power BI service 
+
+---
+
+**Day 23 of #66DaysOfData (July 23, 2021):**
+
+- Watched videos on Udemy about incremental refreshes, endorsing content, and sensitivity labels in Power BI service 
+
+---
+
+**Day 24 of #66DaysOfData (July 24, 2021):**
+
+- Read and completed Microsoft's learning path on Getting started with Microsoft data analytics, which includes modules on discovering data analysis, and getting started on building with Power BI. Also read the first module on the Preparing data for analysis which focuses on getting data in Power BI
+
+---
+
+**Day 25 of #66DaysOfData (July 25, 2021):**
+
+- Read the 2nd module about cleaning, transforming, and loading data in Power BI on Microsoft's Preparing data for analysis learning path. Also read the 1st module about designing a data model in Power BI on Microsoft's Modeling data in Power BI learning path
+
+- Finished working on my pedometer project using Power BI 
+
+---
+
+**Day 26 of #66DaysOfData (July 26, 2021):**
+
+- Read Microsoft's modules on an introduction to creating measures using DAX, and optimizing a model for performance in Power BI 
+
+---
+
+**Day 27 of #66DaysOfData (July 27, 2021):**
+
+- Read Microsoft's modules on working with Power BI visuals, and creating a data-driven story with Power BI reports
+
+---
+
+**Day 28 of #66DaysOfData (July 28, 2021):**
+
+- Read Microsoft's modules on creating dashboards in Power BI, and creating paginated reports with the Power BI report builder
+
+---
+
+**Day 29 of #66DaysOfData (July 29, 2021):**
+
+- Read Microsoft's modules on performing analytics in Power BI, and working with AI visuals in Power BI
+
+- Spent a short amount of time making changes to pedometer project
+
+---
+
+**Day 30 of #66Days of Data (July 30, 2021):**
+
+- Read Microsoft's modules on creating and managing workspaces in Power BI, managing datasets in Power BI, and implementing row-level security
+
+- Worked on portfolio website 
+
+---
+
+**Day 31 of #66DaysOfData (July 31, 2021):**
+
+- Took my DA-100: Analyzing Data with Power BI exam today and passed! 🥳 I am officially now a Microsoft Certified Data Analyst Associate!
+
+- Watched Guy in a Cube's video on Query Dependency in Power BI (https://www.youtube.com/watch?v=jibBmpW3w_8&ab_channel=GuyinaCube) 
+
+---
+
+**Day 32 of #66DaysOfData (August 1, 2021):**
+
+- Watched StatQuest video on the Normal Distribution (https://www.youtube.com/watch?v=rzFX5NWojp0&ab_channel=StatQuestwithJoshStarmer) 
