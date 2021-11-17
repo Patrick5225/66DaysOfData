@@ -237,3 +237,74 @@
 **Day 32 of #66DaysOfData (August 1, 2021):**
 
 - Watched StatQuest video on the Normal Distribution (https://www.youtube.com/watch?v=rzFX5NWojp0&ab_channel=StatQuestwithJoshStarmer) 
+
+---
+
+**Day 33 of #66DaysOfData (August 2, 2021):**
+
+Already halfway there! 😃 
+
+- Watched a video by Guy in a Cube about a simple trick on changing column headers in a matrix visual in Power BI
+(https://www.youtube.com/watch?v=_On_aX8DbJw&ab_channel=GuyinaCube) 
+
+---
+
+**Day 34 of #66DaysOfData (August 3, 2021):**
+
+- Watched a video by Guy in a Cube about a trick on using Power BI bookmarks to switch contents on tooltips (https://www.youtube.com/watch?v=r46kUh40SN8&ab_channel=GuyinaCube)
+
+- Although I already completed the program, I actually skipped the project portion of the Google Data Analytics Program. So I'm going back and working on a capstone project about a data analysis case study on Bellabeat. For today, I just read the introduction and details of the case study 
+
+---
+
+**Day 35 of #66DaysOfData (August 4, 2021):**
+
+- Watched video by Guy in a Cube about the possible reasons that one should look into when trying to figure out why Power BI reports may be running slow (https://www.youtube.com/watch?v=91D1WrNrHtY&ab_channel=GuyinaCube)
+
+---
+
+**Day 36 of #66DaysOfData (August 5, 2021):**
+
+- My company is looking into filtering data based on specific users accessing reports in Power BI.. so I went ahead and watched some videos online about Row-Level security, mainly those by Guy in a Cube
+
+- Completed the "Ask" portion of the capstone project #2 from the  Google Data Analytics Program 
+
+---
+
+**Day 37 of #66DaysOfData (August 6, 2021):**
+
+- Read a blog post by Maven Analytics on career tips for entry level data analysts (https://www.mavenanalytics.io/blog/10-tips-for-entry-level-data-analyst)
+
+- Completed the "Prepare" portion of the capstone project #2 from the  Google Data Analytics Program 
+
+---
+
+**Day 38 of #66DaysOfData (August 7. 2021):**
+
+- Watched video by Alex the Analyst on a SQL tutorial about installing SQL Server Management Studio and creating tables (https://www.youtube.com/watch?v=RSlqWnP-Dy8&ab_channel=AlexTheAnalyst)
+
+- Continued working on Google Capstone project by importing files to SQL server 
+
+---
+
+**Day 39 of #66DaysOfData (August 8, 2021):**
+
+- Watched video by Alex the Analyst on SQL basics, such as SELECT and aggregate functions, using SQL Server (https://www.youtube.com/watch?v=PyYgERKq25I&ab_channel=AlexTheAnalyst) 
+
+---
+
+**Day 40 of #66DaysOfData (August 9, 2021):**
+
+- Watched video by Guy in a Cube about the Power Automate Visual in Power BI (https://www.youtube.com/watch?v=T0dsCUeCFjg&ab_channel=GuyinaCube)
+
+- Watched video by Alex the Analyst on using the WHERE statement in SQL Server (https://www.youtube.com/watch?v=A9TOuDZTPDU&ab_channel=AlexTheAnalyst) 
+
+---
+
+**Day 41 of #66DaysOfData (August 10, 2021):**
+
+- Read blog post by Maven Analytics about the 3 essential attributes that are needed for development as an analyst (https://www.mavenanalytics.io/blog/data-analyst-skills-trifecta)
+
+- Watched video by Guy in a Cube about working with images using image URLs in Power BI (https://www.youtube.com/watch?v=uvYFyNkqWF4&ab_channel=GuyinaCube)
+
+- Learned how to create databases, schemas, and tables in Snowflake 
