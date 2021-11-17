@@ -308,3 +308,81 @@ Already halfway there! 😃
 - Watched video by Guy in a Cube about working with images using image URLs in Power BI (https://www.youtube.com/watch?v=uvYFyNkqWF4&ab_channel=GuyinaCube)
 
 - Learned how to create databases, schemas, and tables in Snowflake 
+
+---
+
+**Day 42 of #66DaysOfData (August 11, 2021):**
+
+- Watched video by Guy in a Cube about exploring the Visio visual in Power BI (https://www.youtube.com/watch?v=ZkL2jo3b_5M&ab_channel=GuyinaCube) 
+
+---
+
+**Day 43 of #66DaysOfData (August 12, 2021):**
+
+- Watched video by Guy in a Cube about using the paginated visual in Power BI (https://www.youtube.com/watch?v=5Fcf8eXRq2E&ab_channel=GuyinaCube)
+
+- Continued working on Google Capstone project by cleaning the data 
+
+---
+
+**Day 44 of #66DaysOfData (August 13, 2021):**
+
+- Watched video by Data Professor on using the Overleaf editor to write LaTeX code to create article layouts (https://www.youtube.com/watch?v=mX8ctLGR_FY&ab_channel=DataProfessor)
+
+- Started on Udemy course: Advanced DAX for Microsoft Power BI Desktop by Maven Analytics. Went over introduction to the course and data modeling fundamentals
+
+- More data cleaning on Google Capstone Project 
+
+---
+
+**Day 45 of #66DaysOfData (August 14, 2021):**
+
+- Continued Udemy Course: Advanced DAX for Microsoft Power BI Desktop. Went over basic DAX review
+
+- Read article about some of the best practices in data analytics (https://towardsdatascience.com/best-practices-in-data-analytics-cfcb2baebcb3) 
+
+---
+
+**Day 46 of #66DaysOfData (August 15, 2021):**
+
+- More data cleaning on Google Capstone project
+
+- Read blog article by Maven Analytics on pro tips for dashboard designing (https://www.mavenanalytics.io/blog/6-pro-tips-for-dashboard-design?utm_source=linkedin&utm_campaign=DashboardDesignTips_er04202021) 
+
+---
+
+**Day 47 of #66DaysOfData (August 16, 2021):**
+
+- Continued Udemy Course: Advanced DAX for Microsoft Power BI Desktop. Went over an introduction to the course project along with setting up the Data model for the course
+
+- Read blog post by Maven Analytics on the career journey of a data analyst along with their advice for data analysts (https://www.mavenanalytics.io/blog/eriks-career-journey-and-advice-for-data-analysts)
+
+- Watched Ken's Nearest Neighbors video about the guest speaker talking about how much the improvement of their data visualizations have changed over time (https://www.youtube.com/watch?v=LQGK4IL7kOE&ab_channel=KNNClips) 
+
+---
+
+**Day 48 of #66DaysOfData (August 17, 2021):**
+
+- Read blog post by Maven Analytics on the most difficult analytics skills that recruiters think are difficult to find among data analysts (https://www.mavenanalytics.io/blog/the-hardest-analytics-skills-to-find)
+
+- More data cleaning on Google Capstone Project with python on jupyter notebook 
+
+---
+
+**Day 49 of #66DaysOfData (August 18, 2021):**
+
+- Watched video by Guy in a Cube about using conditional drill-throughs in Power BI with buttons (https://www.youtube.com/watch?v=4Qy-bksqExI&ab_channel=GuyinaCube)
+
+---
+
+**Day 50 of #66DaysOfData (August 19, 2021):**
+
+- Watched video by Guy in a Cube about the 3 signs that one can look for that help us know when it is time to optimze our Power BI report (https://www.youtube.com/watch?v=uKSkMDEGM2I&ab_channel=GuyinaCube) 
+
+---
+
+**Day 51 of #66DaysOfData (August 20, 2021):**
+
+- Continued Udemy course: Advanced DAX for Microsoft Power BI Desktop. Learned about how the 2 engines, the formula engine and the storage engine, work together to process every DAX query
+
+- Watched video by Ken Jee about how data visualization is important for data science (https://www.youtube.com/watch?v=k8YxyrcAXJs&ab_channel=KenJee) 
