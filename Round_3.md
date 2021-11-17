@@ -89,3 +89,12 @@
 **Day 11 of #66DaysOfData (July 11, 2021):**
 
 - Watched video from Guy in a Cube on getting started on understanding Power BI performance (https://www.youtube.com/watch?v=14KCckNbmvs&ab_channel=GuyinaCube). This video gives an introduction to the performance analyzer and some brief recommendations for optimizing performance 
+
+---
+
+**Day 12 of #66DaysOfData (July 12, 2021):**
+
+- Watched a video from Guy in a Cube about a technique to reduce the number of visuals within a Power BI report to improve performance (https://www.youtube.com/watch?v=kkIXtvU1AiM&t=229s&ab_channel=GuyinaCube). The technique shown on the video is similar to a blog post I read a couple of days ago, except on this video, it takes it a step further by adding icons as a KPI indicator on the visuals
+
+- Did some practice and messing around with some formatting options with objects and charts in Power BI, such as conditional formatting 
+
