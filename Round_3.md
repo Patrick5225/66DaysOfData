@@ -446,3 +446,43 @@ Already halfway there! 😃
 **Day 60 of #66DaysOfData (August 29, 2021):**
 
 - Continued Udemy Course: Advanced DAX for Power BI. Learned about the best practices for formatting DAX code
+
+---
+
+**Day 61 of #66DaysOfData (August 30, 2021):**
+
+- Continued Udemy Course: Advanced DAX for Power BI. Learned about DAX evaluation order
+
+---
+
+**Day 62 of #66DaysOfData (August 31, 2021):**
+
+- Continued Udemy Course: Advanced DAX for Power BI. Learned about commenting DAX code and creating a measure table and folders to organize measures
+
+---
+
+**Day 63 of #66DaysOfData (September 1, 2021):**
+
+- Continued Udemy Course: Advanced DAX for Power BI. Learned about error handling with DAX using functions IFERROR() and ISBLANK()
+
+- Spent some time watching videos about Power BI's drillthrough functionality 
+
+---
+
+**Day 64 of #66DaysOfData (September 2, 2021):**
+
+- Continued Udemy Course: Advanced DAX for Power BI. Learned about creating and using DAX variables
+
+---
+
+**Day 65 of #66DaysOfData (September 3, 2021):**
+
+- Continued Udemy Course: Advanced DAX for Power BI. Learned about the evaluation order of variables, and using variables to test & debug DAX code 
+
+---
+
+**Day 66 of #66DaysOfData (September 4, 2021):**
+
+- Watched video by StatQuest about the central limit theorem (https://youtu.be/YAlJCEDH2uY)
+
+- Started Section 6 of Udemy Course: Advanced DAX for Power BI. Watched an introduction of scalar functions and what they are used for
