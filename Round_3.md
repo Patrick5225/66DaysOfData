@@ -386,3 +386,63 @@ Already halfway there! 😃
 - Continued Udemy course: Advanced DAX for Microsoft Power BI Desktop. Learned about how the 2 engines, the formula engine and the storage engine, work together to process every DAX query
 
 - Watched video by Ken Jee about how data visualization is important for data science (https://www.youtube.com/watch?v=k8YxyrcAXJs&ab_channel=KenJee) 
+
+---
+
+**Day 52 of #66DaysOfData (August 21, 2021):**
+
+- Watched video by Alex the Analyst on using Group By and Order By statements with SQL (https://www.youtube.com/watch?v=LXwfzIRD-Ds&list=PLUaB-1hjhk8GT6N5ne2qpf603sF26m2PW&index=4&ab_channel=AlexTheAnalyst) 
+
+---
+
+**Day 53 of #66DaysOfData (August 22, 2021):**
+
+- Read blog post on Towards Data Science about 5 tips to boost Power BI development (https://towardsdatascience.com/5-tips-to-boost-your-power-bi-development-a44d7e782037)
+
+---
+
+**Day 54 of #66DaysOfData (August 23, 2021):**
+
+- Watched video by Guy in a Cube about building a slicer panel in Power BI (https://www.youtube.com/watch?v=xy9nmSQeUWg&ab_channel=GuyinaCube)
+
+- Continued Udemy Course: Advanced DAX for Power BI. Learned about the data and storage types stored by the interal DAX engine 
+
+---
+
+**Day 55 of #66DaysOfData (August 24, 2021):**
+
+- Continued Udemy Course: Advanced DAX for Power BI. Learned about the Vertipaq's columnar data structure along with how it uses compression and encoding to reduce the amount of memory needed to evaluate DAX queries 
+
+---
+
+**Day 56 of #66DaysOfData (August 25, 2021):**
+
+- Watched video by Guy in a Cube about 5 tips for improving public speaking or presentation skills (https://www.youtube.com/watch?v=2HYl3V5ak1U&ab_channel=GuyinaCube)
+
+- Continued Udemy course: Advanced DAX for Power BI. Learned about the value encoding process that VertiPaq uses to covert values in a column into smaller values for storage 
+
+---
+
+**Day 57 of #66DaysOfData (August 26, 2021):**
+
+- Continued Udemy course: Advanced DAX for Power BI. Learned about the hash encoding and run length encoding processes
+
+---
+
+**Day 58 of #66DaysOfData (August 27, 2021):**
+
+- Continued Udemy course: Advanced DAX for Power BI. Learned about VertiPaq Relations, and reviewed the different DAX engines used in Power BI 
+
+---
+
+**Day 59 of #66DaysOfData (August 28, 2021):**
+
+- Started Section 5 of Udemy Course: Advanced DAX for Power BI. Learned about some useful DAX keyboard shortcuts
+
+- Read blog post about how to know how much data would be enough to find a statistically signifcant result (https://towardsdatascience.com/how-much-data-is-enough-366d5b11ca3c) 
+
+---
+
+**Day 60 of #66DaysOfData (August 29, 2021):**
+
+- Continued Udemy Course: Advanced DAX for Power BI. Learned about the best practices for formatting DAX code
