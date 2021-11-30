@@ -7,3 +7,5 @@
 2) You must share what you are working on with the #66DaysOfData hashtag on any platform you are comfortable with. I used Discord to share my progress.
 
 The goal of the challenge is to help create a habit of consistent daily learning. The requirements are very small and only needs you to spend 5 minutes of your time each day to learn something new. Also sharing what you are working on everyday will help hold you accountable and work with other like-minded people.
+
+Learn more about the #66DaysOfData challenge: https://www.youtube.com/watch?v=qV_AlRwhI3I
