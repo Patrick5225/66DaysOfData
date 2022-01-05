@@ -22,4 +22,5 @@
 
 - Review of INDEX and MATCH functions in Excel
 
-- Watched video about the page navigator in Power BI (https://www.youtube.com/watch?v=4TxEvFmE44Q&ab_channel=GuyinaCube)
+- Watched video by Guy in a Cube about the page navigator in Power BI (https://www.youtube.com/watch?v=4TxEvFmE44Q&ab_channel=GuyinaCube) 
+
