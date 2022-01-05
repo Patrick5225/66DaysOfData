@@ -11,3 +11,15 @@
 - Continued Udemy Course of Excel. Learned about the quick access toolbar and customizing the ribbon tab with shortcuts to save time and increase productivity 
 
 ---
+
+**Day 3 of #66DaysOfData (January 3, 2022):**
+
+- Learned about tables, the Name Manager, and the OFFSET function to dynamically update Excel charts
+
+---
+
+**Day 4 of #66DaysOfData (January 4, 2022):**
+
+- Review of INDEX and MATCH functions in Excel
+
+- Watched video about the page navigator in Power BI (https://www.youtube.com/watch?v=4TxEvFmE44Q&ab_channel=GuyinaCube)
