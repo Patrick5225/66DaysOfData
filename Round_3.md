@@ -24,3 +24,10 @@
 
 - Watched video by Guy in a Cube about the page navigator in Power BI (https://www.youtube.com/watch?v=4TxEvFmE44Q&ab_channel=GuyinaCube) 
 
+---
+
+**Day 5 of #66DaysOfData (January 5, 2022):**
+
+- Learned how to sort bar charts in Excel using RANK() function, including being able to uniquely rank values that are tied
+
+- Watched video by Guy in a Cube about the bookmark navigator in Power BI (https://www.youtube.com/watch?v=IdXK470YwAQ) 
