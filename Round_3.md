@@ -31,3 +31,9 @@
 - Learned how to sort bar charts in Excel using RANK() function, including being able to uniquely rank values that are tied
 
 - Watched video by Guy in a Cube about the bookmark navigator in Power BI (https://www.youtube.com/watch?v=IdXK470YwAQ) 
+
+---
+
+**Day 6 of #66DaysOfData (January 6, 2022):**
+
+- Read article about making a custom-made interactive slicer pane in Power BI (https://towardsdatascience.com/build-pro-slicer-pane-in-power-bi-911248b39348)
