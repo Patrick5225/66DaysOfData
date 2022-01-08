@@ -37,3 +37,11 @@
 **Day 6 of #66DaysOfData (January 6, 2022):**
 
 - Read article about making a custom-made interactive slicer pane in Power BI (https://towardsdatascience.com/build-pro-slicer-pane-in-power-bi-911248b39348)
+
+---
+
+**Day 7 of #66DaysOfData (January 7, 2022):**
+
+- Learned about making dynamic series label positioning for Excel charts to make labels easier to read for readers
+
+- Watched video by Khan Academy of a basic introduction to theoretical probability (https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability?modal=1) 
