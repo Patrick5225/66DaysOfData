@@ -45,3 +45,9 @@
 - Learned about making dynamic series label positioning for Excel charts to make labels easier to read for readers
 
 - Watched video by Khan Academy of a basic introduction to theoretical probability (https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability?modal=1) 
+
+---
+
+**Day 8 of #66DaysOfData (January 8, 2022):**
+
+- More practice with making dynamic series label positioning for Excel Charts
