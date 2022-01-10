@@ -51,3 +51,11 @@
 **Day 8 of #66DaysOfData (January 8, 2022):**
 
 - More practice with making dynamic series label positioning for Excel Charts
+
+---
+
+**Day 9 of #66DaysOfData (January 9, 2022):**
+
+- Learned about Excel conditional formatting of column charts to color both the maximum and minimum values
+
+- Practiced SQL with exercises on SELECT and WHERE statements at w3schools.com 
