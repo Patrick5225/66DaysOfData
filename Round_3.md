@@ -59,3 +59,9 @@
 - Learned about Excel conditional formatting of column charts to color both the maximum and minimum values
 
 - Practiced SQL with exercises on SELECT and WHERE statements at w3schools.com 
+
+--
+
+**Day 10 of #66DaysOfData (January 10, 2022):**
+
+- Watched video by Guy in a Cube about creating a popup window on Power BI (https://www.youtube.com/watch?v=JZ0FwDr9SXU) 
