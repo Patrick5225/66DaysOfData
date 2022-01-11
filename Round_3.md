@@ -60,7 +60,7 @@
 
 - Practiced SQL with exercises on SELECT and WHERE statements at w3schools.com 
 
---
+---
 
 **Day 10 of #66DaysOfData (January 10, 2022):**
 
