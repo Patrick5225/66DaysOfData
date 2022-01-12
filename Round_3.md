@@ -65,3 +65,11 @@
 **Day 10 of #66DaysOfData (January 10, 2022):**
 
 - Watched video by Guy in a Cube about creating a popup window on Power BI (https://www.youtube.com/watch?v=JZ0FwDr9SXU) 
+
+---
+
+**Day 11 of #66DaysOfData (January 11, 2022):**
+
+- Reviewed Excel conditional formatting of bar charts to color both the maximum and minimum values
+
+- Practiced SQL with exercises on Order By statements on w3schools.com
