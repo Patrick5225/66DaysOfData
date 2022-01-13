@@ -73,3 +73,9 @@
 - Reviewed Excel conditional formatting of bar charts to color both the maximum and minimum values
 
 - Practiced SQL with exercises on Order By statements on w3schools.com
+
+---
+
+**Day 12 of #66DaysOfData (January 12, 2022):**
+
+- Learned about conditionally coloring negative/positive columns and data labels in Excel column charts
