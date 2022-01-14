@@ -79,3 +79,11 @@
 **Day 12 of #66DaysOfData (January 12, 2022):**
 
 - Learned about conditionally coloring negative/positive columns and data labels in Excel column charts
+
+---
+
+**Day 13 of #66DaysOfData (January 13, 2022):**
+
+- Practiced SQL with exercises on INSERT and NULL statements on w3schools.com
+
+- Learned about grouping vs hiding columns and rows in Excel 
