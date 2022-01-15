@@ -87,3 +87,9 @@
 - Practiced SQL with exercises on INSERT and NULL statements on w3schools.com
 
 - Learned about grouping vs hiding columns and rows in Excel 
+
+---
+
+**Day 14 of #66DaysOfData (January 14, 2022):**
+
+- Practiced SQL with exercises on UPDATE statements on w3schools.com
