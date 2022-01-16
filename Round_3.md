@@ -93,3 +93,9 @@
 **Day 14 of #66DaysOfData (January 14, 2022):**
 
 - Practiced SQL with exercises on UPDATE statements on w3schools.com
+
+---
+
+**Day 15 of #66DaysOfData (January 15, 2022):**
+
+- Watched an hour long Q&A video by Guy in a Cube containing Power BI tips (https://www.youtube.com/watch?v=hghCYb-_NbQ) 
