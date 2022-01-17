@@ -99,3 +99,9 @@
 **Day 15 of #66DaysOfData (January 15, 2022):**
 
 - Watched an hour long Q&A video by Guy in a Cube containing Power BI tips (https://www.youtube.com/watch?v=hghCYb-_NbQ) 
+
+---
+
+**Day 16 of #66DaysOfData (January 16, 2022):**
+
+- Reviewed and practiced SQL with exercises on DELETE statements on w3schools.com 
