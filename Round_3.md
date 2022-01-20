@@ -105,3 +105,21 @@
 **Day 16 of #66DaysOfData (January 16, 2022):**
 
 - Reviewed and practiced SQL with exercises on DELETE statements on w3schools.com 
+
+---
+
+**Day 17 of #66DaysOfData (January 17, 2022):**
+
+- Watched video on Excel tips on designing dashboards (https://youtu.be/p2bFHuAR8Z0)
+
+---
+
+**Day 18 of #66DaysOfData (January 18, 2022):**
+
+- Reviewed and practiced Excel's VLOOKUP and INDEX/MATCH functions
+
+---
+
+**Day 19 of #66DaysOfData (January 19, 2022):**
+
+- Learned about using vertical lines to create dividers in column charts 
