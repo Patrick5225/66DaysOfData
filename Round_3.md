@@ -123,3 +123,9 @@
 **Day 19 of #66DaysOfData (January 19, 2022):**
 
 - Learned about using vertical lines to create dividers in column charts 
+
+---
+
+**Day 20 of #66DaysOfData (January 20, 2022):**
+
+- Watched video of 7 common mistakes in Excel and the alternative approaches to these mistakes (https://www.youtube.com/watch?v=cnCvn6CmP2k) 
