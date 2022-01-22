@@ -129,3 +129,9 @@
 **Day 20 of #66DaysOfData (January 20, 2022):**
 
 - Watched video of 7 common mistakes in Excel and the alternative approaches to these mistakes (https://www.youtube.com/watch?v=cnCvn6CmP2k) 
+
+---
+
+**Day 21 of #66DaysOfData (January 21, 2022):**
+
+- Watched video about the basics of creating and using Excel Macros (https://www.youtube.com/watch?v=An-2Nxf_Dms)
