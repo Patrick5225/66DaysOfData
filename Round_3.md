@@ -135,3 +135,9 @@
 **Day 21 of #66DaysOfData (January 21, 2022):**
 
 - Watched video about the basics of creating and using Excel Macros (https://www.youtube.com/watch?v=An-2Nxf_Dms)
+
+---
+
+**Day 22 of #66DaysOfData (January 22, 2022):**
+
+- Watched video about 3 different ways to remove duplicates in data on Excel (https://www.youtube.com/watch?v=ADArCWLz55Y) 
