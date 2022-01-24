@@ -141,3 +141,9 @@
 **Day 22 of #66DaysOfData (January 22, 2022):**
 
 - Watched video about 3 different ways to remove duplicates in data on Excel (https://www.youtube.com/watch?v=ADArCWLz55Y) 
+
+---
+
+**Day 23 of #66DaysOfData (January 23, 2022):**
+
+- Watched video about combine text and numbers from multiple cells into one cell in Microsoft Excel without the concatenate function (https://www.youtube.com/watch?v=uxdp5Z2I0mg) 
