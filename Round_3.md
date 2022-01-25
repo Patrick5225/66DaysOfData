@@ -147,3 +147,9 @@
 **Day 23 of #66DaysOfData (January 23, 2022):**
 
 - Watched video about combine text and numbers from multiple cells into one cell in Microsoft Excel without the concatenate function (https://www.youtube.com/watch?v=uxdp5Z2I0mg) 
+
+---
+
+**Day 24 of #66DaysOfData (January 24, 2022):**
+
+- Watched video on how to create checkboxes in Microsoft Excel (https://www.youtube.com/watch?v=Jj1iJSnXEG8)
