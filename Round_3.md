@@ -153,3 +153,9 @@
 **Day 24 of #66DaysOfData (January 24, 2022):**
 
 - Watched video on how to create checkboxes in Microsoft Excel (https://www.youtube.com/watch?v=Jj1iJSnXEG8)
+
+---
+
+**Day 25 of #66DaysOfData (January 25, 2022):**
+
+- LOOKUP function review in Excel and understanding it's uses on obtaining the 1st/2nd right-most value on a row 
