@@ -159,3 +159,13 @@
 **Day 25 of #66DaysOfData (January 25, 2022):**
 
 - LOOKUP function review in Excel and understanding it's uses on obtaining the 1st/2nd right-most value on a row 
+
+---
+
+**Day 26 of #66DaysOfData (January 26, 2022):**
+
+- Learned how to create and use macros in Excel
+
+- Read article about the dos and don'ts of line charts (https://medium.com/@Infogram/the-dos-and-donts-of-line-charts-bda05ced84d3)
+
+- Read article about the dos and don'ts of bar charts (https://infogram.com/blog/do-this-not-that-bar-charts/) 
