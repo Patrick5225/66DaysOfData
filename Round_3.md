@@ -169,3 +169,9 @@
 - Read article about the dos and don'ts of line charts (https://medium.com/@Infogram/the-dos-and-donts-of-line-charts-bda05ced84d3)
 
 - Read article about the dos and don'ts of bar charts (https://infogram.com/blog/do-this-not-that-bar-charts/) 
+
+---
+
+**Day 27 of #66DaysOfData (January 27, 2022):**
+
+- Watched video about using searchable drop down lists in Excel without writing any complex formulas (https://www.youtube.com/watch?v=3Qh5nUmCVd8)
