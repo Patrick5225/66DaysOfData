@@ -175,3 +175,9 @@
 **Day 27 of #66DaysOfData (January 27, 2022):**
 
 - Watched video about using searchable drop down lists in Excel without writing any complex formulas (https://www.youtube.com/watch?v=3Qh5nUmCVd8)
+
+---
+
+**Day 28 of #66DaysOfData (January 28, 2022):**
+
+- Watched video about how to create a column chart with conditional formatting and rounded shapes (https://www.youtube.com/watch?v=C9beIaL-cBA) 
