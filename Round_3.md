@@ -181,3 +181,9 @@
 **Day 28 of #66DaysOfData (January 28, 2022):**
 
 - Watched video about how to create a column chart with conditional formatting and rounded shapes (https://www.youtube.com/watch?v=C9beIaL-cBA) 
+
+---
+
+**Day 29 of #66DaysOfData (January 29, 2022):**
+
+- Watched video about how to create a progress circle chart in Excel (https://www.youtube.com/watch?v=ZN3pEt_h7eg)
