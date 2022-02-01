@@ -193,3 +193,9 @@
 **Day 30 of #66DaysOfData (January 30, 2022):**
 
 - Read article about 8 useful SQL functions to clean raw data (https://towardsdatascience.com/top-8-sql-functions-to-clean-raw-data-2b6141de06a?source=social.tw&gi=f38577199887)
+
+---
+
+**Day 31 of #66DaysOfData (January 31, 2022):**
+
+- Review of INDEX and MATCH functions in Excel 
