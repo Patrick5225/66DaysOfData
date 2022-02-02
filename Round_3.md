@@ -199,3 +199,11 @@
 **Day 31 of #66DaysOfData (January 31, 2022):**
 
 - Review of INDEX and MATCH functions in Excel 
+
+---
+
+**Day 32 of #66DaysOfData (February 1, 2022):**
+
+- Watched part 1 of an Excel video about 2 smart ways to use custom formatting instead of conditional formatting in Excel (https://www.youtube.com/watch?v=tGY70sdpaLc)
+
+- Read article on creating KPI visuals in Power BI (https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-kpi) 
