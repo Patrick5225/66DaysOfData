@@ -207,3 +207,9 @@
 - Watched part 1 of an Excel video about 2 smart ways to use custom formatting instead of conditional formatting in Excel (https://www.youtube.com/watch?v=tGY70sdpaLc)
 
 - Read article on creating KPI visuals in Power BI (https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-kpi) 
+
+---
+
+**Day 33 of #66DaysOfData (February 2, 2022):**
+
+- Watched part 2 of an Excel video about 2 more smart ways of using custom formatting instead of conditional formatting in Excel (https://www.youtube.com/watch?v=faPSXNkU1Y0&t=0s)
