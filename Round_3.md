@@ -213,3 +213,29 @@
 **Day 33 of #66DaysOfData (February 2, 2022):**
 
 - Watched part 2 of an Excel video about 2 more smart ways of using custom formatting instead of conditional formatting in Excel (https://www.youtube.com/watch?v=faPSXNkU1Y0&t=0s)
+
+---
+
+**Day 34 of #66DaysOfData (February 3, 2022):**
+
+- Watched video about 10 Power BI Tips for creating dashboards (https://www.youtube.com/watch?v=mYpOSfqgTvY)
+
+---
+
+**Day 35 of #66DaysOfData (February 4, 2022):**
+
+- Watched video about adding sparklines in Power BI (https://www.youtube.com/watch?v=NkRVaRUVO7s)
+
+---
+
+**Day 36 of #66DaysOfData (February 5, 2022):**
+
+- Watched video about an advanced filtering trick in Excel which returns data based on a selection of column headers (https://www.youtube.com/watch?v=evrnIuDRtsQ)
+
+---
+
+**Day 37 of #66DaysOfData (February 6, 2022):**
+
+- Watched video of creating KPI cards in Excel (https://www.youtube.com/watch?v=bCt36qozGeQ)
+
+- Learned how to calculate percentage changes in Excel, and how to calculate the final amount after a percent increase/decrease (https://www.youtube.com/watch?v=UN5PckRADyQ) 
