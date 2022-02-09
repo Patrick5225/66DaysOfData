@@ -250,7 +250,7 @@
 
 ---
 
-**Day 39 of #66DaysOfData (February 8, 2022):
+**Day 39 of #66DaysOfData (February 8, 2022):**
 
 - Watched video about an overview of a book that every data analyst should read. In particular, it goes over a 5 step approach into building effective visualizations to better communicate to the audience (https://www.youtube.com/watch?v=09JnFEdZe2A)
 
