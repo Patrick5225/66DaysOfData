@@ -239,3 +239,21 @@
 - Watched video of creating KPI cards in Excel (https://www.youtube.com/watch?v=bCt36qozGeQ)
 
 - Learned how to calculate percentage changes in Excel, and how to calculate the final amount after a percent increase/decrease (https://www.youtube.com/watch?v=UN5PckRADyQ) 
+
+---
+
+**Day 38 of #66DaysOfData (February 7, 2022):**
+
+- Learned about the GETPIVOTDATA() function in Excel
+
+- Watched video about using Excel's Index and Match functions the right way (https://www.youtube.com/watch?v=F264FpBDX28) 
+
+---
+
+**Day 39 of #66DaysOfData (February 8, 2022):
+
+- Watched video about an overview of a book that every data analyst should read. In particular, it goes over a 5 step approach into building effective visualizations to better communicate to the audience (https://www.youtube.com/watch?v=09JnFEdZe2A)
+
+- Learned about the TEXT() function in Excel
+
+- Practice with Index and Match functions 
