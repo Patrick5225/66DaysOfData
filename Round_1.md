@@ -13,3 +13,11 @@
 - Did step 2 of Capstone Project (Jose Portilla, 2021 Python)
 - Stats: Learned about analyzing one categorical variable
 - Solved Leetcode & Hackerrank SQL problem
+
+---
+
+**Day 3 of #66DaysOfData (January 3, 2021):**
+
+- Project: Finished Part Two of Capstone Project (Jose Portilla, 2021 Python)
+
+- Solved Leetcode SQL problem
