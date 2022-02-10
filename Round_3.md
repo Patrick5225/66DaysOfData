@@ -257,3 +257,13 @@
 - Learned about the TEXT() function in Excel
 
 - Practice with Index and Match functions 
+
+---
+
+**Day 40 of #66DaysOfData (February 9, 2022):**
+
+- Read the introduction (pages 1-17) of the book "storytelling with data" by Cole Nussbaumer Knaflic
+
+- Watched video about how to connect to Power BI datasets in Excel (https://www.youtube.com/watch?v=1yJnmZRTNZg)
+
+- Worked for a bit on my portfolio website 
