@@ -273,3 +273,9 @@
 **Day 41 of #66DaysOfData (February 10, 2022):**
 
 - Watched video by Luke Barousse about how he uses SQL as a data analyst (https://www.youtube.com/watch?v=GEBzsz8ZSXs)
+
+---
+
+**Day 42 of #66DaysOfData (February 11, 2022):**
+
+- Watched video about an Excel trick to unstack data from a column to multiple columns (https://www.youtube.com/watch?v=rscXNUlRsH0)
