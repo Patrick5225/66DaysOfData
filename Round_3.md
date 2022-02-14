@@ -279,3 +279,9 @@
 **Day 42 of #66DaysOfData (February 11, 2022):**
 
 - Watched video about an Excel trick to unstack data from a column to multiple columns (https://www.youtube.com/watch?v=rscXNUlRsH0)
+
+---
+
+**Day 43 of #66DaysOfData (February 12, 2022):**
+
+- Watched video about creating interactive Excel dashboards with option buttons (https://www.youtube.com/watch?v=oSTgFUiRDGI) 
