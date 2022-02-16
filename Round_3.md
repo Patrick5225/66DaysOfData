@@ -291,3 +291,9 @@
 **Day 44 of #66DaysOfData (February 13, 2022):**
 
 - Watched video about a brief overview of how Power Query can be useful in Excel (https://www.youtube.com/watch?v=6lBqYInBldk&list=WL&index=4)
+
+---
+
+**Day 45 of #66DaysOfData (February 14, 2022):**
+
+- Learned about how to sort data automatically in Excel using rank and the Index/Match functions (https://www.youtube.com/watch?v=t0jqEJK6oDg) 
