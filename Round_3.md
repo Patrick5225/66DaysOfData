@@ -285,3 +285,9 @@
 **Day 43 of #66DaysOfData (February 12, 2022):**
 
 - Watched video about creating interactive Excel dashboards with option buttons (https://www.youtube.com/watch?v=oSTgFUiRDGI) 
+
+---
+
+**Day 44 of #66DaysOfData (February 13, 2022):**
+
+- Watched video about a brief overview of how Power Query can be useful in Excel (https://www.youtube.com/watch?v=6lBqYInBldk&list=WL&index=4)
