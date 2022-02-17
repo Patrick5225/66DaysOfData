@@ -297,3 +297,9 @@
 **Day 45 of #66DaysOfData (February 14, 2022):**
 
 - Learned about how to sort data automatically in Excel using rank and the Index/Match functions (https://www.youtube.com/watch?v=t0jqEJK6oDg) 
+
+---
+
+**Day 46 of #66DaysOfData (February 15, 2022):**
+
+- Read Chapter 1 (pages 19-33) of the book "storytelling with data" by Cole Nussbaumer Knaflic. This chapter emphasizes the importance of context when communicating data visualizations to an audience
