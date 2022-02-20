@@ -303,3 +303,27 @@
 **Day 46 of #66DaysOfData (February 15, 2022):**
 
 - Read Chapter 1 (pages 19-33) of the book "storytelling with data" by Cole Nussbaumer Knaflic. This chapter emphasizes the importance of context when communicating data visualizations to an audience
+
+---
+
+**Day 47 of #66DaysOfData (February 16, 2022):**
+
+- Watched video about a trick to show images from SharePoint Online in Power BI reports (https://www.youtube.com/watch?v=EowHdhy-Nio) 
+
+---
+
+**Day 48 of #66DaysOfData (February 17, 2022):**
+
+- Watched video about the most common errors in Excel and how to fix these errors (https://www.youtube.com/watch?v=sFn0gE_y1U4)
+
+---
+
+**Day 49 of #66DaysOfData (February 18, 2022):**
+
+- Watched video about an overview of improving Excel productivity using Power Pivot, data modeling and DAX (https://www.youtube.com/watch?v=Gf4HmkR7_FE)
+
+---
+
+**Day 50 of #66DaysOfData (February 19, 2022):**
+
+- Watched StatQuest video of P-values and how they are calculated differently from probabilities (https://www.youtube.com/watch?v=5Z9OIYA8He8)
