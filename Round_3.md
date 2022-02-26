@@ -327,3 +327,39 @@
 **Day 50 of #66DaysOfData (February 19, 2022):**
 
 - Watched StatQuest video of P-values and how they are calculated differently from probabilities (https://www.youtube.com/watch?v=5Z9OIYA8He8)
+
+---
+
+**Day 51 of #66DaysOfData (February 20, 2022):**
+
+- Watched video about 3 methods to add text to the beginning of values in Excel (https://www.youtube.com/watch?v=fMYni2J7oao)
+
+---
+
+**Day 52 of #66DaysOfData (February 21, 2022):**
+
+- Watched video about adding and editing Excel comments/Notes (https://www.youtube.com/watch?v=2PhaaEWY1pQ) 
+
+---
+
+**Day 53 of #66DaysOfData (February 22, 2022):**
+
+- Watched video by Maven Analytics of Keyboard shortcuts for Excel (https://www.youtube.com/watch?v=4b1ckfFYdpI)
+
+---
+
+**Day 54 of #66DaysOfData (February 23, 2022):**
+
+- Watched video of the updated mobile report layout for Power BI (https://www.youtube.com/watch?v=vjcWToSAlZ8)
+
+---
+
+**Day 55 of #66DaysOfData (February 24, 2022):**
+
+- Learned about the XLOOKUP function in Excel (https://www.youtube.com/watch?v=xnLvEhXWSas)
+
+---
+
+**Day 56 of #66DaysOfData (February 25, 2022):**
+
+- Watched video about a Power Query tip to quickly change data sources in Power BI and Excel (https://www.youtube.com/watch?v=XIq5vN5oPf8)
