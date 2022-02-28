@@ -363,3 +363,15 @@
 **Day 56 of #66DaysOfData (February 25, 2022):**
 
 - Watched video about a Power Query tip to quickly change data sources in Power BI and Excel (https://www.youtube.com/watch?v=XIq5vN5oPf8)
+
+---
+
+**Day 57 of #66DaysOfData (February 26, 2022):**
+
+- Read part of Chapter 2 (pages 35-43) of the book "storytelling with data" by Cole Nussbaumer Knaflic. In this reading, I read about how to create an effective visual with simple text, tables, and heatmaps
+
+---
+
+**Day 58 of #66DaysOfData (February 27, 2022):**
+
+- Continued reading Chapter 2 (pages 43-49) of the book "storytelling with data" by Cole Nussbaumer Knaflic. In this reading, I read about how to create an effective visual with scatterplots, line graphs, and slopegraphs
